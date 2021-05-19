@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\api",
+    "\\client\\src\\app",
+    "\\client\\src\\pages",
+    "\\client\\src\\style",
+    "\\server",
+    "\\server\\controllers",
+    "\\server\\models"
+  ],
+  "SelectedNode": "\\client\\src\\style\\index.css",
+  "PreviewInSolutionExplorer": false
+}
