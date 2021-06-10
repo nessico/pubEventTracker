@@ -1,6 +1,4 @@
 # Web-Dev-Final-Project
-Sigh. this is the project repository. 
-We are making a project that allows users to asynchronously create events, upload CSV XLS and XLSX files that are put into the database
 
 1)	Install the uploaded files
 2)	Create 2 command terminals  (one for server and one for client)
