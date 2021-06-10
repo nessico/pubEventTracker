@@ -1,5 +1,7 @@
 # Web-Dev-Final-Project
 
+MERN Stack. Users can asynchronously CRUD events, CSV, XLS, and XLSX files into the database 
+
 1)	Install the uploaded files
 2)	Create 2 command terminals  (one for server and one for client)
 3)	For the server terminal:	
