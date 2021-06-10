@@ -1,4 +1,4 @@
-# MERN Stack. 
+# MERN Stack
 
 Users can asynchronously CRUD events, CSV, XLS, and XLSX files into the database 
 
