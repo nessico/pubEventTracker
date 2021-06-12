@@ -1,4 +1,4 @@
-# MERN Stack
+## MERN stack, university event check-in tracker
 
 Users can asynchronously CRUD events, CSV, XLS, and XLSX files into the database 
 
