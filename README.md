@@ -1,6 +1,7 @@
-## university event check-in tracker (MERN stack)
+## University Event Check-in Tracker 
 
 Users can asynchronously CRUD events, CSV, XLS, and XLSX files into the database 
+- made with MERN stack
 
 1)	Install the uploaded files
 2)	Create 2 command terminals  (one for server and one for client)
